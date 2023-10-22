@@ -1,0 +1,15 @@
+@import url('https://fonts.cdnfonts.com/css/huntrela');
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  overflow: hidden;
+  font-family: 'Huntrela', sans-serif;
+  color: rgb(27, 80, 150);
+}
+
+
+
